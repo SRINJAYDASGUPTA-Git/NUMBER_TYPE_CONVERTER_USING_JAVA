@@ -1,4 +1,3 @@
-package project_1.src;
 import java.util.*;
 public class myproject {
     static Scanner sc=new Scanner(System.in);// 1st SCANNER
