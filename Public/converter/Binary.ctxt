@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Binary
+comment1.params=bin
+comment1.target=double\ toDecimal(double)
+comment2.params=bin
+comment2.target=java.lang.String\ toOctal(double)
+comment3.params=bin
+comment3.target=java.lang.String\ toHexadecimal(double)
+numComments=4
